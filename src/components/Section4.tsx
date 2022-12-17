@@ -18,7 +18,7 @@ export default function Section4() {
             </div>
           </dl>
 
-          <dl className="grid grid-cols-2 gap-x-2.5">
+          <dl className="grid grid-cols-2 gap-x-2.5 mt-1">
             <div className="justify-self-center">
               <img src="/assets/section4/Huyen.png" />
             </div>
@@ -27,7 +27,7 @@ export default function Section4() {
             </div>
           </dl>
 
-          <dl className="grid grid-cols-2 gap-x-2.5">
+          <dl className="grid grid-cols-2 gap-x-2.5 mt-1">
             <div className="justify-self-center">
               <img src="/assets/section4/Loan.png" />
             </div>
