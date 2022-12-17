@@ -7,7 +7,7 @@ export default function Section6() {
             data-section-id="momentum"
             className="max-w-lg mx-auto lg:max-w-7xl"
           >
-            <div>
+            {/* <div>
               <h2 className="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
                 Momentum
               </h2>
@@ -16,6 +16,14 @@ export default function Section6() {
                   Increase your momentum with Preflight's powerful features.
                 </p>
               </div>
+            </div> */}
+            <div className="max-w-4xl mx-auto text-center">
+              <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
+                Momentum
+              </h2>
+              <p className="mt-3 text-xl text-gray-500 sm:mt-4">
+                Increase your momentum with Preflight's powerful features.
+              </p>
             </div>
             <div className="pt-2 grid gap-16 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-12">
               <div>
