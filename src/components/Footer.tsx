@@ -1,4 +1,4 @@
-export default function Section9() {
+export default function footer() {
   return (
     <div className="bg-gray-800">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:py-12 sm:px-6 lg:px-8">
@@ -10,7 +10,7 @@ export default function Section9() {
             <img
               loading="lazy"
               className="h-12 w-auto"
-              src="/assets/section9/microsoft.svg"
+              src="/assets/footer/microsoft.svg"
               alt="microsoft"
             />
           </div>
@@ -18,7 +18,7 @@ export default function Section9() {
             <img
               loading="lazy"
               className="h-12 w-auto"
-              src="/assets/section9/typescript.svg"
+              src="/assets/footer/typescript.svg"
               alt="typescript"
             />
           </div>
@@ -26,7 +26,7 @@ export default function Section9() {
             <img
               loading="lazy"
               className="h-12 w-auto"
-              src="/assets/section9/reactflow.svg"
+              src="/assets/footer/reactflow.svg"
               alt="reactflow"
             />
           </div>
@@ -34,7 +34,7 @@ export default function Section9() {
             <img
               loading="lazy"
               className="h-12 w-auto"
-              src="/assets/section9/figma.svg"
+              src="/assets/footer/figma.svg"
               alt="figma"
             />
           </div>
@@ -42,7 +42,7 @@ export default function Section9() {
             <img
               loading="lazy"
               className="h-12 w-auto"
-              src="/assets/section9/vscode.svg"
+              src="/assets/footer/vscode.svg"
               alt="vscode"
             />
           </div>

@@ -4,7 +4,7 @@ export default function Section1() {
       <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 pt-4 lg:pt-20">
         <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-[580px_1fr] gap-4 lg:gap-6">
           <div className="flex flex-col items-start">
-            <h1 className="text-[length:32px] lg:text-5xl text-center lg:text-left leading-none font-medium text-gray-900">
+            <h1 className="text-[length:32px] lg:text-[35px] text-center lg:text-left leading-none font-medium text-gray-900">
               <span className="font-bold">Code less, Test more</span> it's that
               simple
             </h1>
