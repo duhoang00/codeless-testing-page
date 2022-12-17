@@ -9,7 +9,32 @@ export default function Section4() {
             Our interview
           </h2>
 
-          <img src="/assets/section4/Thoa.png" />
+          <dl className="grid grid-cols-2 gap-x-2.5">
+            <div className="justify-self-center">
+              <img src="/assets/section4/Thoa.png" />
+            </div>
+            <div className="justify-self-center">
+              <img src="/assets/section4/Quy.png" />
+            </div>
+          </dl>
+
+          <dl className="grid grid-cols-2 gap-x-2.5">
+            <div className="justify-self-center">
+              <img src="/assets/section4/Huyen.png" />
+            </div>
+            <div className="justify-self-center">
+              <img src="/assets/section4/Vinh.png" />
+            </div>
+          </dl>
+
+          <dl className="grid grid-cols-2 gap-x-2.5">
+            <div className="justify-self-center">
+              <img src="/assets/section4/Loan.png" />
+            </div>
+            <div className="justify-self-center">
+              <img src="/assets/section4/Anh.png" />
+            </div>
+          </dl>
         </div>
       </div>
 
