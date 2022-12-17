@@ -8,7 +8,7 @@ export default function Section3() {
           </h2>
         </div>
       </div>
-      <div className="bg-white mx-12 my-2 !py-10 sm:pb-16">
+      <div className="bg-white mx-12 !py-10 sm:pb-16">
         <div className="relative">
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="max-w-4xl mx-auto">
