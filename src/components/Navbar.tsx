@@ -10,7 +10,7 @@ export default function Navbar() {
               className="h-12 w-auto"
               width="150"
               height="20"
-              src="src/assets/logo/codeless-color-2-short.png"
+              src="../assets/logo/codeless-color-2-short.png"
               alt="Codeless testing"
             />
           </a>
