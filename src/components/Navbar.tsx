@@ -357,7 +357,7 @@ export default function Navbar() {
 
           <div className="relative">
             <a
-              href="/pricing"
+              href="/"
               // data-active-className="text-gray-900"
               rel="noopener"
               // data-inactive-className="text-gray-500"
