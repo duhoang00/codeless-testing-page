@@ -355,9 +355,10 @@ export default function Navbar() {
             </div>
           </div>
 
-          <div className="relative">
+          {/* <div className="relative">
             <a
               href="/"
+              target="_blank"
               // data-active-className="text-gray-900"
               rel="noopener"
               // data-inactive-className="text-gray-500"
@@ -365,7 +366,7 @@ export default function Navbar() {
             >
               <span>Pricing</span>
             </a>
-          </div>
+          </div> */}
 
           <div className="relative">
             <a
@@ -388,7 +389,8 @@ export default function Navbar() {
             Login
           </a>
           <a
-            href="/"
+            href="https://github.com/cpcoderhack2022/NotReadyYet_2D1N/tree/master/dnd-ui"
+            target="_blank"
             className="inline-flex items-center justify-center h-12 bg-primary rounded text-white font-bold sm:flex-1 lg:flex-none lg:px-4 hover:bg-primary-300 flex-shrink-0"
           >
             Get started
