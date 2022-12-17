@@ -7,7 +7,7 @@ export default function Section7() {
             What's next?
           </h2>
 
-          <img src="/assets/section7/section7.png" />
+          <img src="/assets/section7/section7_1.png" />
         </div>
       </div>
     </div>
