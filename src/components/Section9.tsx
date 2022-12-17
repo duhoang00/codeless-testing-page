@@ -7,7 +7,7 @@ export default function Section() {
             Who are we?
           </h2>
 
-          <img src="/assets/section9/section9_2.png" />
+          <img src="/assets/section9/section9_3.png" />
         </div>
       </div>
     </div>
