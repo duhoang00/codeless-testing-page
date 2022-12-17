@@ -22,7 +22,8 @@ export default function Section6() {
                 Momentum
               </h2>
               <p className="mt-3 text-xl text-gray-500 sm:mt-4">
-                Increase your momentum with Preflight's powerful features.
+                Increase your momentum with Codeless testing's powerful
+                features.
               </p>
             </div>
             <div className="pt-2 grid gap-16 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-12">
@@ -163,8 +164,8 @@ export default function Section6() {
                     Test Email and PDF
                   </p>
                   <p className="mt-3 text-base text-gray-500">
-                    Testing emails and PDFs is essential. With Preflight, get
-                    them tested in minutes.
+                    Testing emails and PDFs is essential. With Codeless testing,
+                    get them tested in minutes.
                   </p>
                 </div>
                 <div className="mt-3">
@@ -231,7 +232,7 @@ export default function Section6() {
                   </p>
                   <p className="mt-3 text-base text-gray-500">
                     When there is a UI change that affects the CSS selectors,
-                    Preflight can adapt to changes with its AI instead of
+                    Codeless testing can adapt to changes with its AI instead of
                     breaking the tests.
                   </p>
                 </div>
