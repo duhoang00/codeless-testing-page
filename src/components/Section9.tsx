@@ -10,7 +10,7 @@ export default function Section9() {
             <img
               loading="lazy"
               className="h-12 w-auto"
-              src="/assets/section9/microsoft.png"
+              src="/assets/section9/microsoft.svg"
               alt="microsoft"
             />
           </div>
@@ -18,7 +18,7 @@ export default function Section9() {
             <img
               loading="lazy"
               className="h-12 w-auto"
-              src="/assets/section9/typescript.png"
+              src="/assets/section9/typescript.svg"
               alt="typescript"
             />
           </div>
@@ -26,7 +26,7 @@ export default function Section9() {
             <img
               loading="lazy"
               className="h-12 w-auto"
-              src="/assets/section9/reactflow.png"
+              src="/assets/section9/reactflow.svg"
               alt="reactflow"
             />
           </div>
@@ -34,7 +34,7 @@ export default function Section9() {
             <img
               loading="lazy"
               className="h-12 w-auto"
-              src="/assets/section9/figma.png"
+              src="/assets/section9/figma.svg"
               alt="figma"
             />
           </div>
@@ -42,7 +42,7 @@ export default function Section9() {
             <img
               loading="lazy"
               className="h-12 w-auto"
-              src="/assets/section9/vscode.png"
+              src="/assets/section9/vscode.svg"
               alt="vscode"
             />
           </div>
