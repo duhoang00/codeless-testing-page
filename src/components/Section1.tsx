@@ -19,7 +19,7 @@ export default function Section1() {
             </div>
 
             <div className="mt-2">
-              <img src="../assets/section1/Section1_3.png" />
+              <img src="/assets/section1/Section1_3.png" />
             </div>
 
             <div className="flex flex-col sm:flex-row sm:justify-center lg:justify-start mt-4 lg:mt-10 w-full space-y-2 md:space-y-0 md:space-x-6">
@@ -64,7 +64,7 @@ export default function Section1() {
             {/* <video data-lazy-video="" preload="none" poster="/assets/images/landing_video_poster.webp" loop="" muted="" className="mx-auto">
 				<source src="/assets/videos/landing.mp4" type="video/mp4">
 			</video> */}
-            <img src="../assets/section1/Section1.png" />
+            <img src="/assets/section1/Section1.png" />
           </div>
         </div>
       </div>
