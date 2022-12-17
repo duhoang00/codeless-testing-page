@@ -28,7 +28,7 @@ export default function Section3() {
                 <div className="justify-self-center">
                   <img
                     className="h-12 w-auto "
-                    src="/assets/section3/cohart.png"
+                    src="/assets/section3/eton_house.png"
                   />
                 </div>
               </dl>
