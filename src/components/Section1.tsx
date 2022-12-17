@@ -19,7 +19,7 @@ export default function Section1() {
             </div>
 
             <div className="mt-2">
-              <img src="/assets/section1/demo_1.gif" />
+              <img src="/assets/section1/demo_2.gif" />
             </div>
 
             {/*<div className="flex flex-col sm:flex-row sm:justify-center lg:justify-start mt-4 lg:mt-10 w-full space-y-2 md:space-y-0 md:space-x-6">
