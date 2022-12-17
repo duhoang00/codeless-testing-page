@@ -2,6 +2,9 @@ export default function Section2() {
   return (
     <div className="bg-gray-50 pt-1 md:pt-8">
       <div className="max-w-7xl mx-auto px-[34px] sm:px-6 lg:px-8 space-y-6">
+        <h2 className="text-xl font-bold text-gray-900 mb-3 text-center">
+          Based on a self-research
+        </h2>
         <div className="flex items-center justify-center space-x-3.5 sm:space-x-10 relative z-[1] w-full">
           <div
             className="flex items-center relative w-full sm:w-auto"
@@ -24,6 +27,7 @@ export default function Section2() {
                 />
               </div>
             </div>
+
             <div
               className="flex flex-col items-center justify-center h-[72px] sm:h-[100px] w-full sm:w-[200px] bg-white relative border-2 border-transparent bg-clip-padding
            rounded-tl-3xl rounded-tr rounded-br-3xl rounded-bl 
