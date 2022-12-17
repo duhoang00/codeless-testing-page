@@ -11,7 +11,7 @@ export default function RightDotsDecor() {
           y="0"
           width="100%"
           height="100%"
-          fill="url(https://preflight.com/#circle-pattern)"
+          fill="url(#circle-pattern)"
         ></rect>
       </svg>
       <svg
@@ -24,7 +24,7 @@ export default function RightDotsDecor() {
           y="0"
           width="100%"
           height="100%"
-          fill="url(https://preflight.com/#circle-pattern)"
+          fill="url(#circle-pattern)"
         ></rect>
       </svg>
     </div>
