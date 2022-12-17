@@ -10,11 +10,11 @@ export default function Section1() {
             </h1>
 
             <div>
-              <p className="text-lg leading-normal text-grey-600 mt-4">
-                Write your tests by drag&drop blocks
+              <p className="text-lg mt-4">
+                <b>Write</b> your tests by <b>drag&drop</b> blocks.
               </p>
-              <p className="text-lg leading-normal text-grey-600 mt-4">
-                Run your tests in real browsers.
+              <p className="text-lg !text-grey-600 mb-4">
+                <b>Run</b> your tests in <b>real browsers</b>.
               </p>
             </div>
 
