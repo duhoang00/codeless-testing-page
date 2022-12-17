@@ -15,7 +15,8 @@ export default function Section5() {
         <div className="relative">
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="max-w-4xl mx-auto">
-              <dl className="grid grid-cols-3 gap-x-2.5">
+              <img src="/assets/section5/section5.png" />
+              {/* <dl className="grid grid-cols-3 gap-x-2.5">
                 <button
                   data-target-section-id="momentum"
                   className="flex flex-col items-center rounded-lg bg-white shadow-lg p-2 py-6 text-center group border-2 border-indigo-600 indigo-shadow"
@@ -118,7 +119,7 @@ export default function Section5() {
                     Stability
                   </dt>
                 </button>
-              </dl>
+              </dl> */}
             </div>
           </div>
         </div>
